@@ -86,6 +86,8 @@ Project ini menggunakan beberapa visualisasi:
 - Boxplot per feature
 - Perbandingan engagement dan aktivitas
 
+![Churn Analysis](churn_plot.png)
+
 ---
 
 ## 🧠 Business Recommendations
