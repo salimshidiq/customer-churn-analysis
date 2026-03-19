@@ -86,7 +86,13 @@ Project ini menggunakan beberapa visualisasi:
 - Boxplot per feature
 - Perbandingan engagement dan aktivitas
 
-![Churn Analysis](churn_plot.png)
+---
+
+## 📊 Key Visualization
+
+![Customer Churn Analysis](churn_plot.png)
+
+This visualization shows that customers who have not made a purchase for a longer period are significantly more likely to churn.
 
 ---
 
