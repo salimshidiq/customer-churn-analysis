@@ -172,6 +172,7 @@ Project ini dibuat sebagai bagian dari pembelajaran Data Science & Data Analytic
 3. Open Jupyter Notebook:
    jupyter notebook
 
-## ⭐ If you find this project useful, feel free to give it a star!
+4. Run the notebook file
 
-5. Run the notebook file
+
+## ⭐ If you find this project useful, feel free to give it a star!
