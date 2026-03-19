@@ -1,9 +1,26 @@
-# 📊 Customer Churn Analysis (E-Commerce)
+## 🚀 Customer Churn Analysis
+
+Understanding why customers leave is critical for any business.
+
+In this project, I analyzed customer behavior data to identify key factors that drive churn and provide actionable business insights to improve retention.
+
+## 🔥 Key Findings (Quick Summary)
+
+- Customers who have not made a purchase for a long time are more likely to churn
+- Lower login frequency strongly correlates with churn
+- Low social media engagement increases churn risk
+- Discounts help improve customer retention
 
 ## 📌 Project Overview
 Project ini bertujuan untuk menganalisis perilaku customer dalam platform e-commerce dan mengidentifikasi faktor utama yang menyebabkan customer churn.
 
 Churn adalah kondisi ketika customer berhenti menggunakan layanan atau tidak lagi melakukan pembelian.
+
+## 📊 Key Visualization
+
+![Customer Churn Analysis](churn_plot.png)
+
+This visualization shows that customers who have not made a purchase for a longer period are significantly more likely to churn.
 
 ---
 
@@ -85,14 +102,6 @@ Project ini menggunakan beberapa visualisasi:
 - Churn distribution
 - Boxplot per feature
 - Perbandingan engagement dan aktivitas
-
----
-
-## 📊 Key Visualization
-
-![Customer Churn Analysis](churn_plot.png)
-
-This visualization shows that customers who have not made a purchase for a longer period are significantly more likely to churn.
 
 ---
 
