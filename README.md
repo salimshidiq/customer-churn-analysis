@@ -18,7 +18,7 @@ Churn adalah kondisi ketika customer berhenti menggunakan layanan atau tidak lag
 
 ## 📊 Key Visualization
 
-![Customer Churn Analysis](churn_plot.png)
+![Customer Churn Analysis](images/churn_plot.png)
 
 This visualization shows that customers who have not made a purchase for a longer period are significantly more likely to churn.
 
