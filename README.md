@@ -123,6 +123,16 @@ Berdasarkan analisis:
 
 ---
 
+## 💼 Business Impact
+
+By identifying key churn drivers such as inactivity and low engagement, this analysis can help businesses:
+
+- Reduce customer churn through targeted re-engagement campaigns
+- Improve retention strategies using behavioral insights
+- Increase customer lifetime value
+
+---
+
 ## 🚀 Conclusion
 Churn terutama dipengaruhi oleh rendahnya aktivitas dan engagement customer. Dengan strategi yang tepat, perusahaan dapat mengurangi churn dan meningkatkan loyalitas customer.
 
