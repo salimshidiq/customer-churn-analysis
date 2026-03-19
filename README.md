@@ -12,6 +12,7 @@ Project ini bertujuan untuk menganalisis perilaku customer dalam platform e-comm
 
 Churn adalah kondisi ketika customer berhenti menggunakan layanan atau tidak lagi melakukan pembelian.
 
+
 ## 📊 Key Visualization
 
 ![Customer Churn Analysis](images/churn_plot.png)
@@ -24,6 +25,12 @@ This visualization shows that customers who have not made a purchase for a longe
 - Lower login frequency strongly correlates with churn
 - Low social media engagement increases churn risk
 - Discounts help improve customer retention
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
 ---
 
@@ -139,15 +146,30 @@ By identifying key churn drivers such as inactivity and low engagement, this ana
 ## 🚀 Conclusion
 Churn terutama dipengaruhi oleh rendahnya aktivitas dan engagement customer. Dengan strategi yang tepat, perusahaan dapat mengurangi churn dan meningkatkan loyalitas customer.
 
----
-
-## 🛠 Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
 
 ---
 
 ## 👤 Author
 Project ini dibuat sebagai bagian dari pembelajaran Data Science & Data Analytics untuk membangun portfolio profesional.
+
+---
+
+## ⚠️ Limitations
+- Analysis is based on a single dataset
+- No machine learning model is applied yet
+- Results may vary with different datasets
+
+---
+
+## ⚙️ How to Run
+
+1. Clone this repository:
+   git clone https://github.com/salimshidiq/customer-churn-analysis.git
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Open Jupyter Notebook:
+   jupyter notebook
+
+4. Run the notebook file
