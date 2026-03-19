@@ -1,3 +1,6 @@
+## 📊 Project Type
+Exploratory Data Analysis (EDA) - Customer Behavior Analysis
+
 ## 🚀 Customer Churn Analysis
 
 Understanding why customers leave is critical for any business.
